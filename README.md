@@ -1,5 +1,5 @@
 🧬 Dormant Nanoparticles for HSV-1 and Broader Medical Applications
-© 2024 Alien Algorithms Limited™
+© 2024 - 2025 Alien Algorithms Ltd®
 Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 View License
 
@@ -51,7 +51,9 @@ Modification or commercial development if shared alike
 Rapid scientific collaboration without paywalls or proprietary lock-ins
 
 “The war on chronic disease and hidden infections must begin before they speak. Dormant nanoparticles listen first — then act.”
-— Alien Algorithms Ltd
+— Alien Algorithms Ltd®
 
 Related Project
 https://github.com/AlienAlgorithmsLtd/Biological-Spoofing-System
+
+The old 2024 version of Dormant Nanoparticles for HSV-1 and Broader Medical Applications WILL BE DELETED ON 1/1/2026
