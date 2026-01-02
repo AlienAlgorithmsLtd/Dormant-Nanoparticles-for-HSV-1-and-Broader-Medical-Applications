@@ -153,4 +153,4 @@ https://github.com/AlienAlgorithmsLtd/Biological-Spoofing-System
 📌 Notice
 
 The old 2024 version of “Dormant Nanoparticles for HSV-1 and Broader Medical Applications”
-WILL BE DELETED ON 1/1/2026.
+WAS DELETED ON 1/1/2026.
